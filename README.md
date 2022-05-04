@@ -37,3 +37,6 @@ this must be done **exactly as you see their name spelled in the google form**
 
 in your command line/terminal, run `python calculate.py`
 
+### help
+
+if you're confused, reach out to me 
