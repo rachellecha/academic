@@ -1,0 +1,2 @@
+# academic
+calculate study hours
